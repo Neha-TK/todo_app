@@ -26,7 +26,7 @@ A simple Todo app using FastAPI and PostgreSQL with JWT authentication.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Neha-TK/todo_app.git
+git clone https://github.com/username/todo_app.git
 cd todo_app.git
 ```
 
